@@ -6,4 +6,7 @@ public class MiPrimeraClase {
 		System.out.println("Hello!!!");
 	}
 
+	public static void otroMetodo() {
+		System.out.println("Otro mensaje");
+	}
 }
